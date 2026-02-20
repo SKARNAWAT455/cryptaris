@@ -75,9 +75,3 @@ The build artifacts will be stored in the `dist/` directory.
    - Build for production: `npm run build`
    - Serve the `dist/` folder using Nginx/Apache or a static host (Vercel/Netlify).
 
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## 📄 License
-
-[MIT](LICENSE)
